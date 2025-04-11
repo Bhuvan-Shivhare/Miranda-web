@@ -2,9 +2,7 @@
 Its main goal is to demonstrate advanced animation skills using GSAP while capturing the design vibe of the Miranda website.
 
 
-Live Demo
-
-Live Demo Link: (https://yourlivewebsite.com)  
+Live Demo:(https://bhuvan-shivhare.github.io/Miranda-web/) 
 
 
 ## About The Project
